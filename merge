@@ -1,1 +1,4 @@
-
+docker container ls
+docker exec -it namecode/bin/bash
+hdfs dfs -ls/
+hdfs
